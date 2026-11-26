@@ -1,0 +1,1 @@
+window.TKA_API_URL = 'TEMPEL_URL_EXEC_DI_SINI';
